@@ -17,5 +17,5 @@ function validAnagram(str1, str2){
         }
         letters2.splice(correctIndex, 1)
     }
-    return true
+   return true
 }
